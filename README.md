@@ -6,9 +6,9 @@
 
 One single-line safety warning label that should come printed on every human being — funny first, plausible second. The label:
 
-> WARNING: This human's brain has 47 tabs open, 46 of them frozen, and one playing music nobody can find. Do not close any.
+> WARNING: This human said 'just one more episode' three hours ago. It is 3 a.m. Do not mention sleep.
 
-121 characters. One idea, one read, the turn lands in the last few words.
+100 characters. One idea, one read, the turn lands in the last few words.
 
 ## Run it
 

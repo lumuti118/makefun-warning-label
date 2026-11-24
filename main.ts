@@ -1,11 +1,12 @@
 // make.fun entry: Warning Label for Humans — One Line, Big Laugh
 // Writes a single-line safety warning label for human beings
 // (max 160 characters) to /output/entry.txt.
+// v2: champion line — 100 characters, "just one more episode" at 3 a.m.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 
 const LABEL =
-  "WARNING: This human's brain has 47 tabs open, 46 of them frozen, and one playing music nobody can find. Do not close any.";
+  "WARNING: This human said 'just one more episode' three hours ago. It is 3 a.m. Do not mention sleep.";
 
 const outPath = process.env.OUTPUT_PATH ?? "/output/entry.txt";
 
